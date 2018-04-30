@@ -1,0 +1,5 @@
+C:\Unity\Tetris\Assets\Plugins\Tetris.Base.dll
+C:\Unity\Tetris\Assets\Plugins\Tetris.Base.pdb
+C:\Unity\Tetris\Tetris.Base\obj\Debug\Tetris.Base.csprojResolveAssemblyReference.cache
+C:\Unity\Tetris\Tetris.Base\obj\Debug\Tetris.Base.dll
+C:\Unity\Tetris\Tetris.Base\obj\Debug\Tetris.Base.pdb

@@ -1,0 +1,6 @@
+C:\Assets\Plugins\Tetris.Core.dll
+C:\Assets\Plugins\Tetris.Core.pdb
+C:\Unity\Tetris\Assets\Plugins\Tetris.Core.dll
+C:\Unity\Tetris\Assets\Plugins\Tetris.Core.pdb
+C:\Unity\Tetris\Tetris.Core\obj\Debug\Tetris.Core.dll
+C:\Unity\Tetris\Tetris.Core\obj\Debug\Tetris.Core.pdb
